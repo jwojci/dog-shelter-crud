@@ -1,7 +1,7 @@
 <?php
 
+use app\Http\Controllers\Api\DogController;
 use Illuminate\Support\Facades\Route;
-use App\Http\Controllers\DogController;
 
 /*
 |--------------------------------------------------------------------------
